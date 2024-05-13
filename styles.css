@@ -146,7 +146,7 @@ body {
 }
 
 .lista__link a:active {
-    color: purple;
+    color: rgb(255, 115, 0);
 }
 
 .container__botao:hover {
